@@ -1,0 +1,19 @@
+* {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.meio{
+    background: url(https://ninnahub.com.br/wp-content/uploads/2021/11/section1-bg.png);
+    height: 400px;
+}
+
+.card img {
+    height: 200px;
+    width: 100%;
+}
+
+#div-1 {
+    padding: 25px;
+}
